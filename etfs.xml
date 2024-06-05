@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ETFs>
+    <ETF>
+        <Symbol>EWW</Symbol>
+        <Name>iShares MSCI Mexico ETF</Name>
+        <Price>59.47</Price>
+        <Change>+1.54</Change>
+        <Volume>7.227M</Volume>
+        <DaysAverage>66.97</DaysAverage>
+    </ETF>
+    
+    <ETF>
+        <Symbol>BLOK</Symbol>
+        <Name>Amplify Transformational Data Sharing ETF</Name>
+        <Price>34.44</Price>
+        <Change>0.87</Change>
+        <Volume>217,397</Volume>
+        <DaysAverage>33.08</DaysAverage>
+    </ETF>
+    
+    <ETF>
+        <Symbol>KURE</Symbol>
+        <Name>KraneShares MSCI All China Health Care Index ETF</Name>
+        <Price>14.38</Price>
+        <Change>+0.35</Change>
+        <Volume>15,103</Volume>
+        <DaysAverage>14.58</DaysAverage>
+    </ETF>
+    
+    <ETF>
+        <Symbol>CNXT</Symbol>
+        <Name>VanEck ChiNext ETF</Name>
+        <Price>23.67</Price>
+        <Change>+0.36</Change>
+        <Volume>1,649</Volume>
+        <DaysAverage>23.39</DaysAverage>
+    </ETF>
+    
+    <ETF>
+        <Symbol>ESGS</Symbol>
+        <Name>Columbia U.S. ESG Equity Income ETF</Name>
+        <Price>44.09</Price>
+        <Change>+0.67</Change>
+        <Volume>521</Volume>
+        <DaysAverage>43.70</DaysAverage>
+    </ETF>
+    
+    <ETF>
+        <Symbol>CNYA</Symbol>
+        <Name>iShares MSCI China A ETF</Name>
+        <Price>26.69</Price>
+        <Change>+0.32</Change>
+        <Volume>26,072</Volume>
+        <DaysAverage>26.53</DaysAverage>
+    </ETF>
+
+
+
+
+
+
+
+
+
+
+
+
+</ETFs>

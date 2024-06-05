@@ -1,0 +1,64 @@
+{
+    "gainers": [
+        {
+            "symbol": "LPA",
+            "name": "Latam Logistic Properties, S.A.",
+            "price": "184.64",
+            "change": "+46.15",
+            "volume": "40,379",
+            "marketcap": "5.855B",
+            "peRatio": "N/A"
+        }, 
+        
+        {
+            "symbol": "NEOG",
+            "name": "Neogen Corporation",
+            "price": "15.90",
+            "change": "+2.18",
+            "volume": "4.79M",
+            "marketcap": "3.444B",
+            "peRatio": "795.00"
+        }, 
+        
+        {
+            "symbol": "NEMCL",
+            "name": "NEWMONT CORPORATION CDI 1:1",
+            "price": "41.38",
+            "change": "+4.38",
+            "volume": "100,052",
+            "marketcap": "47.712B",
+            "peRatio": "N/A"
+        }, 
+        
+        {
+            "symbol": "NRSCF",
+            "name": "Nomura Holdings, Inc.",
+            "price": "6.28",
+            "change": "+0.59",
+            "volume": "200,020",
+            "marketcap": "18.689B",
+            "peRatio": "18.47"
+        }, 
+        
+        {
+            "symbol": "AGIO",
+            "name": "Agios Pharmaceuticals, Inc.",
+            "price": "47.35",
+            "change": "+3.52",
+            "volume": "1.796M",
+            "marketcap": "1.936B",
+            "peRatio": "N/A"
+        }, 
+        {
+            "symbol": "ZLAB",
+            "name": "Zai Lab Limited",
+            "price": "19.29",
+            "change": "+1.29",
+            "volume": "908,703",
+            "marketcap": "2.059B",
+            "peRatio": "N/A"
+        } 
+    ]
+
+
+}

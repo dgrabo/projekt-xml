@@ -1,0 +1,82 @@
+{
+    "stocks": [
+        {
+            "symbol": "MARA",
+            "name": "Marathon Digital Holdings, Inc.",
+            "price": "20.52",
+            "change": "+0.94",
+            "volume": "61.994M",
+            "marketcap": "5.803B",
+            "peRatio": "12.82"
+        }, 
+        
+        {
+            "symbol": "TSLA",
+            "name": "Tesla, Inc.",
+            "price": "172.77",
+            "change": "-1.52",
+            "volume": "59.809M",
+            "marketcap": "557.376B",
+            "peRatio": "44.70"
+        }, 
+        
+        {
+            "symbol": "GME",
+            "name": "GameStop Corp.",
+            "price": "26.50",
+            "change": "-1.50",
+            "volume": "50.437M",
+            "marketcap": "9.306B",
+            "peRatio": "1,325.00"
+        }, 
+        
+        {
+            "symbol": "AMD",
+            "name": "Advanced Micro Devices, Inc.",
+            "price": "159.99",
+            "change": "-3.56",
+            "volume": "47.897M",
+            "marketcap": "258.593B",
+            "peRatio": "231.87"
+        }, 
+        
+        {
+            "symbol": "INTC",
+            "name": "Intel Corporation",
+            "price": "30.03",
+            "change": "-0.26",
+            "volume": "50.847M",
+            "marketcap": "127.834B",
+            "peRatio": "30.96"
+        }, 
+        {
+            "symbol": "PLTR",
+            "name": "Palantir Technologies Inc.",
+            "price": "22.10",
+            "change": "+0.78",
+            "volume": "41.324M",
+            "marketcap": "49.214B",
+            "peRatio": "184.17"
+        }, 
+        {
+            "symbol": "F",
+            "name": "Ford Motor Company",
+            "price": "12.03",
+            "change": "-0.16",
+            "volume": "40.53M",
+            "marketcap": "47.803B",
+            "peRatio": "12.40"
+        }, 
+        {
+            "symbol": "NVDA",
+            "name": "NVIDIA Corporation",
+            "price": "1,164.37",
+            "change": "+14.37",
+            "volume": "40.064M",
+            "marketcap": "2.864T",
+            "peRatio": "68.01"
+        }
+    ]
+
+
+}
